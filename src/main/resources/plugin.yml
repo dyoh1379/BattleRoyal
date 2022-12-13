@@ -1,0 +1,4 @@
+name: BattleRoyal
+version: '${project.version}'
+main: kr.dyoh1379.battleroyal.Main
+api-version: 1.19
